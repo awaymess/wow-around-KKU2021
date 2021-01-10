@@ -773,6 +773,15 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 093 092 8860
 - เวลาเปิด-ปิด : เปิดวันอังคาร-วันอาทิตย์ เวลา 12:00 - 23:00
 
+#### 24.The Classic Coffee
+<img src="images/TheClassicCafe.jpg" width="500"/>
+<img src="images/TheClassicCafe1.jpg.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook The Classic Coffee](https://www.facebook.com/The-Classic-Coffee-2301525966609966/photos/?ref=page_internal)
+
+- พิกัด : ซอย พิมานคอนโดพาร์ค ขอนแก่น ข้างร้านกะเพราเห่าดง
+- เวลาเปิด-ปิด เปิดบริการทุกวัน 10:00 - 20:00 น.
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
