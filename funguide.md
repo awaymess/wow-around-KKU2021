@@ -792,7 +792,7 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 093 092 8860
 - เวลาเปิด-ปิด : เปิดวันอังคาร-วันอาทิตย์ เวลา 12:00 - 23:00
 
-### 24. Sri Brown Cafe
+### 30. Sri Brown Cafe
 <img src="images\sri1.jpg" width="500"/>
 <img src="images\sri2.jpg" width="500"/>
 <img src="images\sri3.jpg" width="500"/>
