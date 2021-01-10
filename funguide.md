@@ -772,7 +772,7 @@ Address: 43/30 ถนน อดุลยาราม ตำบล ในเม�
 Tel: 091 051 9439
 
 
-### 24. Sri Brown Cafe
+### 30. Sri Brown Cafe
 <img src="images\sri1.jpg" width="500"/>
 <img src="images\sri2.jpg" width="500"/>
 <img src="images\sri3.jpg" width="500"/>
